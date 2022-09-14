@@ -1,0 +1,25 @@
+id = 8b808440-d150-42ce-8e85-33f89a04d8b9
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"10ff978f-eba8-44d9-aadf-7b7885483dbe","path":"Test_684f519d-3390-4277-aed5-4101cc67b8e7.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+files[] = {"path":"abcd.yaml","metaData":{}}
+files[] = {"path":"AddedSchema.yaml","metaData":{}}
+files[] = {"path":"helloworld919.yaml","metaData":{}}
+files[] = {"path":"hiiiiiiiiiiii.yaml","metaData":{}}
+files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"Inventory.yaml","metaData":{}}
+files[] = {"path":"N10.yaml","metaData":{}}
+files[] = {"path":"N11.yaml","metaData":{}}
+files[] = {"path":"SecondAddedSchema.yaml","metaData":{}}
+files[] = {"path":"ThirdAddedSchema.yaml","metaData":{}}
+
+[relations.apiDefinition.metaData]
+type = openapi:3
